@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme._21prStepanova" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme._21prStepanova" parent="Base.Theme._21prStepanova" />
+
+    <style name="Theme._21prStepanova.Startup" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/holo_purple</item>
+        <item name="postSplashScreenTheme">@style/Theme._21prStepanova</item>
+    </style>
+</resources>
