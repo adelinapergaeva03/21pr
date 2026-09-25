@@ -1,4 +1,4 @@
-package com.example.a21prstepanova;
+package com.example.a21pr;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;

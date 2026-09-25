@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.a21prstepanova"
+    namespace = "com.example.a21pr"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.a21prstepanova"
+        applicationId = "com.example.a21pr"
         minSdk = 30
         targetSdk = 36
         versionCode = 1

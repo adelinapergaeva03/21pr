@@ -1,4 +1,4 @@
-package com.example.a21prstepanova;
+package com.example.a21pr;
 
 import android.content.Context;
 
